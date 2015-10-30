@@ -22,3 +22,10 @@ After finished got gotlshttpserver, then you can run
 ```
 ./gotlshttpserver
 ```
+
+
+## Donate me please
+
+![Scan QRCode donate me via Alipay](https://www.netroby.com/assets/images/alipayme.jpg)
+
+**Scan QRCode donate me via Alipay**
